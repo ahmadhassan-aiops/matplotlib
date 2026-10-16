@@ -1,8 +1,8 @@
 <div align="center">
 
-# 📈 Matplotlib — Data Visualization with Python
+# 📈 Matplotlib: Data Visualization with Python
 
-**Turn data into clear, professional charts — 10 hands-on Jupyter lessons covering every core Matplotlib plot, from line and bar charts to time series, subplots and real-time animation.**
+**Turn data into clear, professional charts: 10 hands-on Jupyter lessons covering every core Matplotlib plot, from line and bar charts to time series, subplots and real-time animation.**
 
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)
@@ -16,7 +16,7 @@
 
 ## 🎯 What you'll learn
 
-Choosing the **right chart for the question** is as important as drawing it. Each lesson explains *when* to use a plot type, then builds it step by step — from a basic version to a polished, publication-ready figure — using real datasets such as developer salaries, programming-language popularity and Bitcoin prices.
+Choosing the **right chart for the question** is as important as drawing it. Each lesson explains *when* to use a plot type, then builds it step by step, from a basic version to a polished, publication-ready figure: using real datasets such as developer salaries, programming-language popularity and Bitcoin prices.
 
 ---
 
@@ -25,12 +25,12 @@ Choosing the **right chart for the question** is as important as drawing it. Eac
 | # | Lesson | What you'll learn |
 |---|---|---|
 | 1 | [Line charts](1.%28LINE%20CHART%29.ipynb) | Plotting two numerical variables, styling lines, markers, labels, legends and grids |
-| 2 | [Filling area on line plots](2.%20Filling%20Area%20on%20Line%20Plots.ipynb) | `fill_between()` — shading the gap between Python and overall median salaries by age |
+| 2 | [Filling area on line plots](2.%20Filling%20Area%20on%20Line%20Plots.ipynb) | `fill_between()`: shading the gap between Python and overall median salaries by age |
 | 3 | [Bar charts & analysing CSV data](3.%20Bar%20Charts%20and%20Analyzing%20Data%20from%20CSVs.ipynb) | Vertical, grouped and horizontal bars; reading a CSV and charting the most popular languages |
-| 4 | [Pie charts](4.Pie%20Charts.ipynb) | Showing parts of a whole — labels, wedges, colours, explode, shadows and percentages |
+| 4 | [Pie charts](4.Pie%20Charts.ipynb) | Showing parts of a whole: labels, wedges, colours, explode, shadows and percentages |
 | 5 | [Stack plots](5.%20Stack%20Plots.ipynb) | Visualising how parts contribute to a total over time |
 | 6 | [Histograms](6.%20HISTOGRAM.ipynb) | Distributions, custom bins, log scale and median lines on a real-world dataset |
-| 7 | [Scatter plots](7.%20Scatter_Plots.ipynb) | Relationships between two variables — size, colour maps, colour bars and log scales |
+| 7 | [Scatter plots](7.%20Scatter_Plots.ipynb) | Relationships between two variables: size, colour maps, colour bars and log scales |
 | 8 | [Time series](8.%20Plotting%20Time%20Series%20Data.ipynb) | Date formatting and plotting real Bitcoin price data over time |
 | 9 | [Real-time plotting](9.%20Plotting%20Live%20Data%20in%20Real-Time.ipynb) | Refreshing a chart live as new random data is appended to a CSV |
 | 10 | [Subplots](10.%20Subplots.ipynb) | Stateful vs. object-oriented Matplotlib; several plots on one or many figures |
@@ -78,11 +78,11 @@ On **Google Colab**, upload the notebook together with its CSV file.
 
 ## 👨‍🏫 About the author
 
-**Ahmad Hassan** — AI/ML Engineer & Instructor with 5+ years of experience
+**Ahmad Hassan** | AI/ML Engineer & Instructor with 5+ years of experience
 1,500+ hours of live teaching, 100+ students mentored from medicine, business and engineering into data roles.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ahmadhassan--aiops.github.io-0EA5A4)](https://ahmadhassan-aiops.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmad%20Hassan-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hassan-79a44b1a3)
 [![GitHub](https://img.shields.io/badge/GitHub-ahmadhassan--aiops-181717?logo=github&logoColor=white)](https://github.com/ahmadhassan-aiops)
 
-⭐ If these notebooks help you learn, please star the repo — it helps other students find it!
+⭐ If these notebooks help you learn, please star the repo. It helps other students find it!
